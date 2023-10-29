@@ -13,7 +13,7 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 Exploring new technologies and developing sofwares
 - 💬 Ask me about software and web development stuffs
-- 📫 Reach me:  <a href="www.linkedin.com/in/harsh-dev-pathak-60a426257">LinkedIn</a>
+- 📫 Reach me:  <a href="https://www.linkedin.com/in/harsh-dev-pathak-60a426257">LinkedIn</a>
 - ⚡ Fun fact: I'm on a journey to fuse innovation and technology
 
 ### Tech Stacks
@@ -40,7 +40,7 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 
 ###  🤝🏻 Connect with Me
 
-<a href="www.linkedin.com/in/harsh-dev-pathak-60a426257">
+<a href="https://www.linkedin.com/in/harsh-dev-pathak-60a426257">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.facebook.com/harsh.devpathak">
@@ -49,5 +49,8 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 <a href="mailto:harshoxfordgkp@gmail.com">
     <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
+<a href="https://www.blogger.com/blog/posts/7375362509427937003">
+  <img align="left" alt="Blogger" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />
+</a>
 
 
