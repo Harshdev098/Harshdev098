@@ -13,7 +13,7 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 Exploring new technologies and developing sofwares
 - 💬 Ask me about software and web development stuffs
-- 📫 Reach me: [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24px" alt="LinkedIn">](www.linkedin.com/in/harsh-dev-pathak-60a426257)
+- 📫 Reach me:  <a href="www.linkedin.com/in/harsh-dev-pathak-60a426257">LinkedIn</a>
 - ⚡ Fun fact: I'm on a journey to fuse innovation and technology
 
 ### Tech Stacks
@@ -40,9 +40,14 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 
 ###  🤝🏻 Connect with Me
 
-&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="24px" alt="LinkedIn">](www.linkedin.com/in/harsh-dev-pathak-60a426257)
-&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png" width="24px" alt="Gmail">](harshoxfordgkp@gmail.com)
-&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.freepik.com/premium-vector/blue-social-media-logo_197792-1759.jpg" width="35px" alt="Facebook">](www.linkedin.com/in/harsh-dev-pathak-60a426257)
-&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYudIu70upgNaOlhUaCsFJsh5wgCSR-QoANxfibuVj&s" width="40px" alt="Blogger">](https://www.blogger.com/blog/posts/7375362509427937003)
+<a href="www.linkedin.com/in/harsh-dev-pathak-60a426257">
+  <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/harsh.devpathak">
+  <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+</a>
+<a href="mailto:harshoxfordgkp@gmail.com">
+    <img align="left" alt="Gmail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  </a>
 
 
