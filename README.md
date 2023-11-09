@@ -1,3 +1,5 @@
+<img align="centre" src="https://camo.githubusercontent.com/36d6c190b35fd8f4229e940e13af24fb2ccad4ed4109fb447ad682ef959111a8/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646f6671396768396c2f696d6167652f75706c6f61642f76313638383032363633372f6769746875622d6865616465722d696d6167655f325f6f686f6a67342e706e67"/>
+
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <br>
