@@ -9,7 +9,7 @@
 
 
 I am a Software developer, Full stack Web Developer and love to contribute in open source, all while passionately selving deep into the ever-evolving world of technology   
-- 🔭 I’m currently working on my SIH project
+- 🔭 I’m currently working on my Research Nexas project
 - 🌱 I’m currently learning on Backend System
 - 🌱 I want to learn Blockchain
 - 👯 I’m looking to collaborate on Open Source Projects
