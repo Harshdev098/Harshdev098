@@ -14,6 +14,7 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 - 🌱 I want to learn Blockchain
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 Exploring new technologies and developing sofwares
+- 🏆 Completed Hacktoberfest,24pullrequests challenges
 - 💬 Ask me about software and web development stuffs
 - 📫 Reach me:  <a href="https://www.linkedin.com/in/harsh-dev-pathak-60a426257">LinkedIn</a>
 - ⚡ Fun fact: I'm on a journey to fuse innovation and technology
