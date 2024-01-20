@@ -16,7 +16,7 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 - 🤔 Exploring new technologies and developing sofwares
 - 🏆 Completed Hacktoberfest,24pullrequests challenges
 - 💬 Ask me about software and web development stuffs
-- 📫 Reach me:  <a href="https://www.linkedin.com/in/harsh-dev-pathak-60a426257">LinkedIn</a>
+- 📫 Reach me:<a href="https://x.com/Harsh_dev098?t=EyUvr1QvMSpco9QB6k72iw&s=09">Twitter</a>&nbsp  <a href="https://www.linkedin.com/in/harsh-dev-pathak-60a426257">LinkedIn</a>
 - ⚡ Fun fact: I'm on a journey to fuse innovation and technology
 
 ### Tech Stacks
