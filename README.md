@@ -48,6 +48,9 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 <a href="https://www.linkedin.com/in/harsh-dev-pathak-60a426257">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://x.com/Harsh_dev098?t=EyUvr1QvMSpco9QB6k72iw&s=09">
+  <img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
 <a href="https://www.facebook.com/harsh.devpathak">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
