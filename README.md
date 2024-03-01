@@ -42,6 +42,8 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 [![Harshdev098's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshdev098&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
+[![An image of @harshdev098's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshdev098)](https://holopin.io/@harshdev098)
+
 
 ###  🤝🏻 Connect with Me
 
