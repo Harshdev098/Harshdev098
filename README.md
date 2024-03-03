@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 <br>
 
-### Hi there! 👋 I'm Harsh
+## Hi there! 👋 I'm Harsh
 ---
 
 
@@ -19,7 +19,7 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 - 📫 Reach me:<a href="https://x.com/Harsh_dev098?t=EyUvr1QvMSpco9QB6k72iw&s=09">Twitter </a> <a href="https://www.linkedin.com/in/harsh-dev-pathak-60a426257">LinkedIn</a>
 - ⚡ Fun fact: I'm on a journey to fuse innovation and technology
 
-### Tech Stacks
+## Tech Stacks
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -41,11 +41,16 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 
 [![Harshdev098's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshdev098&hide=contribs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+## Holopin Badges
 
 [![An image of @harshdev098's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harshdev098)](https://holopin.io/@harshdev098)
 
+## 🏆Github Trophies
 
-###  🤝🏻 Connect with Me
+[![trophy](https://github-profile-trophy.vercel.app/?username=Harshdev098&theme=onedark)](https://github.com/Harshdev098/github-profile-trophy)
+
+
+##  🤝🏻 Connect with Me
 
 <a href="https://www.linkedin.com/in/harsh-dev-pathak-60a426257">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
