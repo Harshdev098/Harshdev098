@@ -10,8 +10,7 @@
 
 I am a Software developer, Full stack Web Developer and love to contribute in open source, all while passionately selving deep into the ever-evolving world of technology   
 - 🔭 I’m currently working on my Code Reviewer project
-- 🌱 I’m currently learning on Backend System
-- 🌱 I want to learn Blockchain
+- 🌱 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 Exploring new technologies and developing sofwares
 - 🏆 Completed Hacktoberfest,24pullrequests challenges
