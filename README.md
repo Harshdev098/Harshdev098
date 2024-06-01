@@ -8,11 +8,12 @@
 ---
 
 
-I am a Software developer, Full stack Web Developer and love to contribute in open source, all while passionately selving deep into the ever-evolving world of technology   
+I am a Software developer, Full stack Web Developer and love to contribute in open source, all while passionately selving deep into the ever-evolving world of technology  
 - 🔭 I’m currently working on my Code Reviewer project
 - 🌱 I’m currently learning Blockchain technology
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 Exploring new technologies and developing sofwares
+- ✌️Got Gold Badge for active contribution to the C4GT Community [Click here](https://drive.google.com/file/d/1fPTwJ0_24kY11GEAbJpOj3AVCh9VaQNp/view?usp=sharing)
 - 🏆 Completed Hacktoberfest,24pullrequests challenges
 - 💬 Ask me about software and web development stuffs
 - 📫 Reach me:<a href="https://x.com/Harsh_dev098?t=EyUvr1QvMSpco9QB6k72iw&s=09">Twitter </a> <a href="https://www.linkedin.com/in/harsh-dev-pathak-60a426257">LinkedIn</a>
