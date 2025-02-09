@@ -43,16 +43,16 @@ I am a Software developer, Full stack Web Developer and love to contribute in op
 
 ## 🚀 Featured Projects
 
-- 🔬 [Unify](https://github.com/Research-Nexas/Unify): A web application that seamlessly connects students and researchers with stakeholders in a collaborative research ecosystem.
-- 📚 [Unify-Insights](https://github.com/Research-Nexas/Unify-Insights): A project to manage the recommendation features of Unify
-- 👥 [THubSpace](https://github.com/Harshdev098/THubSpace): A web application for team collaboration. Implementing WebRTC,WebSocket and version control 
-- ⛓️ [Supply Chain](https://github.com/Harshdev098/Supply-Chain): Blockchain-based supply chain solution for secure trade, transparent tracking, and QR-based verification, ensuring authenticity and trustless transactions.
-- 🗃️ [GDrive](https://github.com/Harshdev098/GDrive-3.0): Decentralized Drive for storing files and folders over IPFS and sharing access with others using Solidity and Hardhat 
+- **🔬 [Unify](https://github.com/Research-Nexas/Unify):** A web application that seamlessly connects students and researchers with stakeholders in a collaborative research ecosystem.
+- **📚 [Unify-Insights](https://github.com/Research-Nexas/Unify-Insights):** A project to manage the recommendation features of Unify
+- **👥 [THubSpace](https://github.com/Harshdev098/THubSpace):** A web application for team collaboration. Implementing WebRTC,WebSocket and version control 
+- **⛓️ [Supply Chain](https://github.com/Harshdev098/Supply-Chain):** Blockchain-based supply chain solution for secure trade, transparent tracking, and QR-based verification, ensuring authenticity and trustless transactions.
+- **🗃️ [GDrive](https://github.com/Harshdev098/GDrive-3.0):** Decentralized Drive for storing files and folders over IPFS and sharing access with others using Solidity and Hardhat 
 
 
 ## 🏅 Achievements & Recognitions
 
-- 🎖️ Finalist - HackSwift Hackathon,HackWeb3Conf
+- 🎖️ Finalist - HackSwift Hackathon,HackWeb3Conf Hackathon
 - 🏆 Gold Badge - C4GT Community 🔗[Link](https://drive.google.com/file/d/1fPTwJ0_24kY11GEAbJpOj3AVCh9VaQNp/view?usp=sharing)
 - 🚀 Completed Hacktoberfest & 24PullRequests
 - 👨‍💻 Selected as a Project Admin - GSSoC
